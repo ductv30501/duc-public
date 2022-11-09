@@ -27,7 +27,7 @@ body {
 #pinkboard:after {
   content: "";
   position: absolute;
-  background: #d63031;
+  background: #22d3ee;
   width: 100px;
   height: 160px;
   border-top-left-radius: 50px;
@@ -61,3 +61,4 @@ body {
     transform: scale(1);
   }
 }
+/* doi mau tim o dong 248 index */
